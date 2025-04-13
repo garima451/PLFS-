@@ -17,4 +17,4 @@ One of the most striking findings from the analysis was:
 
 This insight highlights potential socio-cultural and structural barriers that limit women's workforce engagement in urban settings—such as lack of flexible job opportunities, safety concerns, or social norms—despite the availability of resources.
 
-By focusing on PS+SS data, I ensured that this observation is rooted in year-long activity pattern*, offering a more grounded understanding of gendered labour participation across India's rural-urban divide.
+By focusing on PS+SS data, I ensured that this observation is rooted in year-long activity pattern, offering a more grounded understanding of gendered labour participation across India's rural-urban divide.
